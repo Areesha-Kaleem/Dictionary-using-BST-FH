@@ -14,3 +14,5 @@ Duplication resolution: To address duplication, the program calculates the weigh
    - If the word is not found and no suggestions are available
 
 4) Add to Dictionary: After suggesting a word, the program prompts the user to confirm if it should be added to the dictionary. Upon confirmation, the word is added to the Dictionary and BST simultaneously.
+Extraction guide:
+Extract the archive. When opening in C++ Builder, look for a file with a .cbproj extension. Click on it, and it will open the project in C++ Builder. You can view the source code and header files in any code editor.
